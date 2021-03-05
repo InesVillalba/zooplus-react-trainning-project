@@ -1,0 +1,15 @@
+.listContainer {
+    width: 100%;
+    margin: 20px auto 0 auto;
+    padding:  0 20px;
+    list-style: none;
+}
+
+
+/* MEDIA QUERIES */
+
+@media (min-width: 768px) {
+    .listContainer {
+        width: 800px;
+    }
+}

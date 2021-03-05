@@ -1,0 +1,36 @@
+.nav {
+    background-color: #2E4057;
+    color: #FFF;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav li {
+    padding: 12px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.nav li:last-child {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav li:hover:last-child {
+    background-color: #466286;
+}
+
+.nav li:first-child {
+    font-weight: bold;
+    font-family: 'BioRhyme', serif;
+}
+
+.nav a {
+    color: #FFF;
+    text-decoration: none;
+}

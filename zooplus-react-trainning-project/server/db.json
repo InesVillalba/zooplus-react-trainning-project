@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "creationDate": "2020-12-21T19:25:16.493Z",
+      "title": "Life on Mars?",
+      "topic": "planets",
+      "content": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the 'Red Planet'. The latter refers to the effect of the iron oxide prevalent on Mars's surface, which gives it a reddish appearance distinctive among the astronomical bodies visible to the naked eye.\nMars is a terrestrial planet with a thin atmosphere, with surface features reminiscent of the impact craters of the Moon and the valleys, deserts and polar ice caps of Earth."
+    },
+    {
+      "id": 2,
+      "creationDate": "2021-01-18T14:25:16.493Z",
+      "title": "Nature Journal",
+      "topic": "nature",
+      "content": "Nature is a British weekly scientific journal founded and based in London, England. As a multidisciplinary publication, Nature features peer-reviewed research from a variety of academic disciplines, mainly in science, technology, and the natural sciences.\nIt has core editorial offices across the United States, continental Europe, and Asia under the international scientific publishing company Springer Nature.\nNature was one of the world's most cited scientific journals by the Science Edition of the 2019 Journal Citation Reports (with an ascribed impact factor of 42.778), making it one of the world's most-read and most prestigious academic journals.\nAs of 2012, it claimed an online readership of about three million unique readers per month. Founded in autumn 1869, Nature was first circulated by Norman Lockyer and Alexander Macmillan as a public forum for scientific innovations. The mid-20th century facilitated an editorial expansion for the journal; Nature redoubled its efforts in explanatory and scientific journalism. The late-1980s and early-1990s created a network of editorial offices outside of Britain and established ten new supplementary, specialty publications (e.g. Nature Materials). Since the late 2000s, the weekly created dedicated editorial and current affairs columns, as well as electoral endorsements.\nThe primary source of the journal remain, as established at its founding, research scientists; editing standards are primarily concerned with technical readability. Each issue also features articles that are of general interest to the scientific community, namely business, funding, scientific ethics and research breakthroughs. There are also sections on books, arts, and short science fiction stories."
+    }
+  ]
+}

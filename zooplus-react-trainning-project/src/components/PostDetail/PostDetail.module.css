@@ -1,0 +1,50 @@
+.detailContainer {
+    width: 100%;
+    margin: 20px auto 0 auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #F5F3F7;
+    border-radius: 5px;
+}
+
+.detailHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.detailDate {
+    font-size: 13px;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.detailTitle {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #2E4057;
+    font-family: 'BioRhyme', serif;
+}
+
+.detailTopic {
+    color: #4E7E64;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+
+.detailContent {
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5rem;
+}
+
+
+/* MEDIA QUERIES */
+
+@media (min-width: 768px) {
+    .detailContainer {
+        width: 800px;
+    }
+}
